@@ -36,6 +36,7 @@ python train.py
 
 
 - Training DALLE (VP-CSV)
+
 Code and data could be found here https://drive.google.com/file/d/1VV6ej_vm-NA6x2uDrYveYOXNLgI_M7vZ/view?usp=sharing
 
 
